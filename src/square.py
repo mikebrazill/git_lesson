@@ -3,8 +3,8 @@ def my_square(x):
     #takes a value and squares it
     # Uses the **  operator
     #
-    return(x**2)
+    return(y**2)
 
-print(my_square(10))
+print(my_square(100))
 
 
