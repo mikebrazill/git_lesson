@@ -5,7 +5,12 @@ def my_square(z):
     #
     return(z**2)
 
-print(my_square(2))
+def my_square2(x):
+    return (x * x)
+
+
+
+print(my_square2(2))
 
 
 
