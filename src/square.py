@@ -1,10 +1,11 @@
 
-def my_square(x):
+def my_square(z):
     #takes a value and squares it
     # Uses the **  operator
     #
-    return(y**2)
+    return(z**2)
 
-print(my_square(100))
+print(my_square(2))
+
 
 
