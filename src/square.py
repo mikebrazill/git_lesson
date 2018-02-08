@@ -6,6 +6,7 @@ def my_square(z):
     return(z**2)
 
 def my_square2(x):
+    #uses the * operator
     return (x * x)
 
 
